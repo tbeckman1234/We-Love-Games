@@ -338,3 +338,9 @@ header.masthead p {
 	margin-bottom: 2%;
 }
 
+.list {
+	list-style: none;
+	padding-left: 0px;
+	font-weight: 700;
+}
+
