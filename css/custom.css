@@ -1,0 +1,26 @@
+.nav-item .btn-group .nav-link {
+    font-size: 14.4px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.nav-item .btn-group button {
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    /* color: rgba(255, 255, 255, 0.7); */
+}
+/* .navbar-light:not(.nav-shrink) .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+} */
+header.masthead.jadryan {
+    background: url(../img/jadryan-header.jpg) no-repeat center / cover;
+}
+header.masthead.issiac {
+    background: url(http://via.placeholder.com/1920x1080) no-repeat center / cover;
+}
+header.masthead.trinity {
+    background: url(http://via.placeholder.com/1920x1080) no-repeat center / cover;
+}
+header.masthead.thomas {
+    background: url(http://via.placeholder.com/1920x1080) no-repeat center / cover;
+}
